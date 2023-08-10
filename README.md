@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edwin Paul</h1>
+<h1 align="center">Hi 👋, I'm Paul Ndiritu</h1>
 <h3 align="center">Software Developer | Data Engineer</h3>
 
 - 🔭 I’m currently working on **Freelance Full Stack & Data Engineering projects.**
