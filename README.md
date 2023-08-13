@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Ndiritu</h1>
 <h3 align="center">Software Developer | Data Engineer</h3>
 
+- [Personal website](https://edpaul1.github.io/portfolio/)
 - 🔭 I’m currently working on **Freelance Full Stack & Data Engineering projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EdPaul1?tab=repositories](https://github.com/EdPaul1?tab=repositories)
